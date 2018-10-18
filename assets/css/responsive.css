@@ -47,7 +47,7 @@ h1{font-size:90%;}
 @media (max-width:768px){
 
 .main_menu_bg a.navbar-brand.our_logo{
-    top: -113px;
+    top: -105px;
     left: -17px;
     width: 50%;
 }
